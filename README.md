@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi There 👋, I'm Indresh Kumar</h1>
 <h3 align="center">A passionate Mern-Stack-Developer & Competitive Programmer from India</h3>
-<img border-radius="4px" align="right" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"  alt="Coding">
+<img border-radius="4px" align="right" width="150" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"  alt="Coding">
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=exc-indresh&label=Profile%20views&color=0e75b6&style=flat"
         alt="exc-indresh" /> </p>
