@@ -1,82 +1,56 @@
+<h2 align="center">Hi There, I'm Indresh Kumar</h2>
+<h3 align="center">Software Engineer From India</h3>
 
-<h1 align="center">Hi There 👋, I'm Indresh Kumar</h1>
-<h3 align="center">A passionate Mern-Stack-Developer & Competitive Programmer from India</h3>
-<img border-radius="4px" align="right" width="150" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"  alt="Coding">
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=exc-indresh&label=Profile%20views&color=0e75b6&style=flat"
-        alt="exc-indresh" /> </p>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/indresh13/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/indresh54334103__?style=social)](https://x.com/indresh54334103)
+[![GitHub followers](https://img.shields.io/github/followers/exc-indresh?style=social)](https://github.com/exc-indresh)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=exc-indresh" alt="exc-indresh" /></a> </p>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
-<p align="left"> <a href="https://twitter.com/@indresh54334103" target="blank"><img
-            src="https://img.shields.io/twitter/follow/@indresh54334103?logo=twitter&style=for-the-badge"
-            alt="@indresh54334103" /></a> </p>
+<h2>About me</h2>
 
-- 🔭 I’m currently working on **A real time chat application**
+I am Indresh Kumar, Final year student at IIT BHU Varanasi with deep passion for Software Developement, Competitive Programming and solving complex challenges and building scalable, impactful solutions. With a strong foundation in Data Structures & Algorithms (DSA) and hands-on experience in MERN stack development, I thrive at the intersection of problem-solving and innovation.
 
-- 🌱 I’m currently learning **ReactJs, ExpressJs & MongoDB**
+From developing intuitive web applications to optimizing algorithmic efficiency, I enjoy tackling real-world problems that drive technological advancements. My experience spans building dynamic, user-centric platforms, creating scalable systems, and leveraging APIs, databases, and cloud technologies to enhance application performance. 
 
-- 💬 Ask me about **react, express and MondoDB**
+Always open to collaborating on challenging projects, discussing new opportunities, or sharing insights on software engineering. Let’s connect and build something amazing!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/@indresh54334103" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="@indresh54334103" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/indresh-kumar-654676179" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="indresh-kumar-654676179" height="30" width="40" /></a>
-    <a href="https://instagram.com/exc_indresh" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="exc_indresh" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-        rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-            alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
-            height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
-            width="40" height="40" /> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" /> </a> <a
-        href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a> </p>
+<h3>Coding Profiles</h3>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=exc-indresh&show_icons=true&locale=en&layout=compact"
-        alt="exc-indresh" /></p>
+- [Leetcode profile](https://leetcode.com/u/noobie_13/)
+- [Codechef profile](https://www.codechef.com/users/noombie_13)
+- [Codeforces profile](https://codeforces.com/profile/ImGrut)
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=exc-indresh&show_icons=true&locale=en"
-        alt="exc-indresh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exc-indresh&" alt="exc-indresh" />
-</p>
+<h2>🛠Tech Stack</h2>
+
+Languages
+
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+
+Web Technologies
+
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+
+Databases
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+
+
+<h2>Connect with me</h2>
+
+[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="30" width="30">](https://www.linkedin.com/in/indresh13) 
+[<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="30" width="30">](https://x.com/indresh54334103) 
+[<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="30" width="30">](https://www.instagram.com/indreshkumar.13/)
+
+
