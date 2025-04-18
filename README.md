@@ -46,6 +46,8 @@ Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
+![Indresh GitHub stats](https://github-readme-stats.vercel.app/api?username=exc-indresh&show_icons=true&theme=dark)
+
 
 <h2>Connect with me</h2>
 
